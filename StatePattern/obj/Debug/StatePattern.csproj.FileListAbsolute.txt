@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\StatePattern\obj\Debug\StatePattern.pdb

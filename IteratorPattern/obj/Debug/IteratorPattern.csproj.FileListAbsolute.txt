@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\IteratorPattern\obj\Debug\IteratorPattern.pdb

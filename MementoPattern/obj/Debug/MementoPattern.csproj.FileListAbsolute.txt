@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MementoPattern\obj\Debug\MementoPattern.pdb

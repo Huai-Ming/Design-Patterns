@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CommandPattern\obj\Debug\CommandPattern.pdb

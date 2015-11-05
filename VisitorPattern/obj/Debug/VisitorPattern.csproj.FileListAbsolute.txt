@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\VisitorPattern\obj\Debug\VisitorPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\AdapterPattern\obj\Debug\AdapterPattern.pdb

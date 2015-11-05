@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

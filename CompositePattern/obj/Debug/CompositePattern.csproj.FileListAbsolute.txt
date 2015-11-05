@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\CompositePattern\obj\Debug\CompositePattern.pdb

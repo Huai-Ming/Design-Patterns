@@ -1,0 +1,6 @@
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\obj\Debug\MediatorPattern.exe
+C:\Users\lihuai\Desktop\Design Patterns\Design Patterns\MediatorPattern\obj\Debug\MediatorPattern.pdb
