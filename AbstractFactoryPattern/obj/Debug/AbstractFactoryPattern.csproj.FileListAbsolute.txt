@@ -1,0 +1,1 @@
+C:\Users\lihuai\Documents\GitHub\Design-Patterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
