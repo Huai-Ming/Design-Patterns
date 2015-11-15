@@ -50,6 +50,10 @@
     <Compile Include="CatMouseOwnerAndChild\Observer1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stucture\ConcreteObserver.cs" />
+    <Compile Include="Stucture\ConcreteSubject.cs" />
+    <Compile Include="Stucture\Observer.cs" />
+    <Compile Include="Stucture\Subject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
