@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Administrator\Documents\GitHub\Design-Patterns-For-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb
