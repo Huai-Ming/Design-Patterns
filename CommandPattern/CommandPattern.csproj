@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bank\Account.cs" />
+    <Compile Include="Bank\Command.cs" />
+    <Compile Include="Bank\DepositCommand.cs" />
+    <Compile Include="Bank\Invoker.cs" />
+    <Compile Include="Bank\WithdrawalCommand.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Struc\Command.cs" />
